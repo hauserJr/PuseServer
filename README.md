@@ -7,7 +7,9 @@
 
 ### 進行安裝
 >使用Visual Studio執行：`Install-Package WebPush`
+
 >引用WebPush.dll：`using WebPush;`
+
 >並參考官方API將參數依序帶入 [範例程式碼](https://github.com/web-push-libs/web-push-csharp#usage)
 
 下載此專案不須設定任何參數，只需重建後依照指示輸入參數即可達到相同效果。
